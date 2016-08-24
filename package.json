@@ -9,7 +9,7 @@
   "main": "tasks/generateIndex.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/zzjwd/generateIndex.git"
   },
   "licenses": [
     {

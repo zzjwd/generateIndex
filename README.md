@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mapfiles
 
 > mapfiles
@@ -90,5 +90,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 =======
 # generateIndex
-项目需要自动化生成首页，这是一个grunt插件！
->>>>>>> 0d95d82a55fad8c65fd7dad539d4fed2bd40f269
+椤圭洰闇�瑕佽嚜鍔ㄥ寲鐢熸垚棣栭〉锛岃繖鏄竴涓猤runt鎻掍欢锛�
+
