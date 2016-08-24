@@ -1,5 +1,5 @@
 /*
- * mapfiles
+ * generateIndex
  * https://github.com/Administrator/gruntTest
  *
  * Copyright (c) 2016 zzjwd
@@ -29,7 +29,7 @@ module.exports = function(grunt) {
     },
 
     // Configuration to be run (and then tested).
-    mapfiles: {
+    generateIndex: {
       default_options: {
         options: {
         },
@@ -65,7 +65,7 @@ module.exports = function(grunt) {
 
   // Whenever the "test" task is run, first clean the "tmp" dir, then run this
   // plugin's task(s), then test the result.
-  grunt.registerTask('test', ['clean', 'mapfiles', 'nodeunit']);
+  grunt.registerTask('test', ['clean', 'generateIndex', 'nodeunit']);
 
   // By default, lint and run all tests.
   grunt.registerTask('default', ['jshint', 'test']);
