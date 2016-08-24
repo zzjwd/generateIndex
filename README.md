@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mapfiles
 
 > mapfiles
@@ -87,3 +88,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
+=======
+# generateIndex
+项目需要自动化生成首页，这是一个grunt插件！
+>>>>>>> 0d95d82a55fad8c65fd7dad539d4fed2bd40f269
