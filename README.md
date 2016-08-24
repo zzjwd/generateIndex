@@ -90,5 +90,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 =======
 # generateIndex
-椤圭洰闇�瑕佽嚜鍔ㄥ寲鐢熸垚棣栭〉锛岃繖鏄竴涓猤runt鎻掍欢锛�
+一个组件，用于框架自动化集成，依懒于grunt
 
